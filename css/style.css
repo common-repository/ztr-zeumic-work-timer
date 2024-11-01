@@ -1,0 +1,27 @@
+.jsgrid-button.jsgrid-timer-button {
+	background: url(../img/timer.png) no-repeat 0 0 !important;
+	display: block;
+}
+.jsgrid-button.jsgrid-stoptimer-button {
+	background: url(../img/stop.png) no-repeat 0 0 !important;
+	display: block;
+}
+
+#ztr_export {
+	padding: 10px;
+	border: 1px solid #000;
+	margin: 0;
+}
+
+#ztr_export h3 {
+	border: 1px solid #000;
+	padding: 10px;
+	background: #ddd;
+	margin: 0;
+	cursor: pointer;
+}
+
+#ztr_todo_list input[type="text"] {
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+}
